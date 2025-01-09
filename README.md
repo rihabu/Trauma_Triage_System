@@ -1,4 +1,5 @@
-# Trauma Emergency Department Triage System
+# Trauma Emergency Department Triage System 
+******CS50P Final*******
 
 #### Video Demo: https://youtu.be/j5uJ5oNUutU?si=6jqm2B7dh4YPHx48
 
@@ -33,7 +34,8 @@ The system also evaluates other indicators such as oxygen saturation, respirator
 - **Vital Signs Collection**: Collects vital signs such as body temperature, heart rate, blood pressure, oxygen saturation, Glasgow Coma Scale (GCS), and respiratory rate from the user.
 - **Shock Index (SI) Calculation**: Determines the potential for shock based on heart rate and systolic blood pressure.
 - **Revised Trauma Score (RTS)**: Calculates a score to evaluate the severity of trauma based on key parameters (GCS, SBP, and RR).
-- **Triage Level Assignment**: Based on the vital signs and calculated scores, the system classifies the patient’s condition and provides a recommended triage level: **RED (Immediate)**, **YELLOW (Observation)**, or **GREEN (Stable)**.
+- **Triage Level Assignment**: Based on the vital signs and calculated scores, the system classifies the patient’s condition and provides a recommended triage level:
+   **RED (Immediate)**, **YELLOW (Observation)**, or **GREEN (Stable)**.
 - **Medical Feedback**: Offers diagnostic feedback based on vital sign readings, alerting clinicians to potential issues like hypotension, abnormal heart rate, or low oxygen saturation.
 
 ### **Usage:**
