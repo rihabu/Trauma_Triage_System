@@ -1,0 +1,72 @@
+[
+    {
+        "temperature": 37.0,
+        "heart_rate": 100,
+        "blood_pressure_sys": 120,
+        "blood_pressure_dia": 70,
+        "oxygen_saturation": 100.0,
+        "glasgow_coma_scale": 15,
+        "respiratory_rate": 22,
+        "recorded_time": "2024-12-31 18:02:35"
+    },
+    {
+        "name": "rihab toumi",
+        "age": 27,
+        "temperature": 37.0,
+        "heart_rate": 100,
+        "blood_pressure_sys": 120,
+        "blood_pressure_dia": 90,
+        "oxygen_saturation": 100.0,
+        "glasgow_coma_scale": 15,
+        "respiratory_rate": 22,
+        "recorded_time": "2024-12-31 18:05:49"
+    },
+    {
+        "name": "sam lluvia",
+        "age": 31,
+        "temperature": 37.0,
+        "heart_rate": 90,
+        "blood_pressure_sys": 120,
+        "blood_pressure_dia": 90,
+        "oxygen_saturation": 100.0,
+        "glasgow_coma_scale": 15,
+        "respiratory_rate": 22,
+        "recorded_time": "2024-12-31 18:55:07"
+    },
+    {
+        "name": "rihab toumi",
+        "age": 27,
+        "temperature": 40.0,
+        "heart_rate": 110,
+        "blood_pressure_sys": 110,
+        "blood_pressure_dia": 70,
+        "oxygen_saturation": 95.0,
+        "glasgow_coma_scale": 14,
+        "respiratory_rate": 30,
+        "recorded_time": "2024-12-31 18:56:42"
+    },
+    {
+        "name": "rihab toumi",
+        "age": 27,
+        "temperature": 37.0,
+        "heart_rate": 100,
+        "blood_pressure_sys": 120,
+        "blood_pressure_dia": 80,
+        "oxygen_saturation": 95.0,
+        "glasgow_coma_scale": 15,
+        "respiratory_rate": 22,
+        "recorded_time": "2024-12-31 23:26:32"
+    },
+    {
+        "name": "rihab toumi",
+        "age": 27,
+        "temperature": 38.0,
+        "heart_rate": 105,
+        "blood_pressure_sys": 120,
+        "blood_pressure_dia": 80,
+        "oxygen_saturation": 95.0,
+        "glasgow_coma_scale": 15,
+        "respiratory_rate": 22,
+        "recorded_time": "2024-12-31 23:35:09"
+    }
+]
